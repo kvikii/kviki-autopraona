@@ -1,2 +1,4 @@
 # kviki-autopraona
-Custom work
+Skripta za autopraonu, pranje vozila
+# Potrebne skripte
+ox_lib 
