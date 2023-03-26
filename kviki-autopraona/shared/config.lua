@@ -21,7 +21,7 @@ Config.praona = {
     },
     InformNotify = { --- ox_lib text ui
         title = 'Pranje',
-        description = 'Pritisni [E] da zapocnes pranje auta. \n Price: ',
+        description = 'Pritisni [E] da zapocnes pranje auta. \n Cijena: ',
         type = 'inform',
         duration = 5000
     },
